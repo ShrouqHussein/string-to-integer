@@ -1,4 +1,10 @@
 # string-to-integer
+// Course:  CS213 - Programming II  - 2018
+// Title:   Assignment I - Individual
+// source:  Problem 16 on page 505 from Problem Solving with C++, ninth edition.
+// Purpose:  read data from text file & converting strings to integers
+// Author: shrouq hussein        
+// Version: 2
 #include <iostream>
 #include <fstream>
 #include <vector>
